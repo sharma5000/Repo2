@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is F857-856D
+
+ Directory of C:\Users\sharm\Python\myproject
+
+11/12/2020  10:47    <DIR>          .
+11/12/2020  10:47    <DIR>          ..
+11/12/2020  10:47                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  66,318,745,600 bytes free
